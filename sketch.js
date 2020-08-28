@@ -16,7 +16,7 @@ function setup() {
 	rectMode(CENTER);
 	
 
-	packageSprite=createSprite(width/2, 80, 10,10);
+	packageSprite=createSprite(width/2, 200, 10,10);
 	packageSprite.addImage(packageIMG)
 	packageSprite.scale=0.2
 
